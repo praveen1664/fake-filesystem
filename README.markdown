@@ -62,11 +62,6 @@ test-time dependency: your actual library does not need to use or know about
 FakeFS.
 
 
-Speed?
-------
-<http://gist.github.com/156091>
-
-
 Installation
 ------------
 
@@ -74,19 +69,4 @@ Installation
 
     $ gem install fakefs
 
-### [Rip](http://hellorip.com)
 
-    $ rip install git://github.com/defunkt/fakefs.git
-
-
-Meta
-----
-
-* Code: `git clone git://github.com/defunkt/fakefs.git`
-* Home: <http://github.com/defunkt/fakefs>
-* Docs: <http://defunkt.github.com/fakefs>
-* Bugs: <http://github.com/defunkt/fakefs/issues>
-* List: <http://groups.google.com/group/fakefs>
-* Test: <http://runcoderun.com/defunkt/fakefs>
-* Gems: <http://gemcutter.org/gems/fakefs>
-* Boss: Chris Wanstrath :: <http://github.com/defunkt>
